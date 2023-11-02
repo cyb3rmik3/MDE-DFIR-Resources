@@ -4,9 +4,9 @@
   <img src="https://images2.imgbox.com/94/d2/6Jd7QaSP_o.jpg">
 </p>
 
-#### Welcome!
+Hey, thank you stopping by! Well, being here means that you are either familiar with the discipline of Digital Forensics & Incident Reponse (DFIR) or you are interested in beggining to explore DFIR tools and techniques. The common denominator, no matter what your sense is around DFIR, is that you are using Microsoft Defender for Endpoint and the wider Microsoft Azure and Microsoft 365 Defender environments. I hope you will enjoy the following resources which come from my notes and relevant research and testing I have done.
 
-Hey, thank you being here!
+If you find this repo useful, don't forget to ⭐ it!
 
 #### Table of Contents
 - [Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint](#remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint)
