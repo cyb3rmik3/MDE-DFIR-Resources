@@ -19,9 +19,9 @@ If you find this repo useful, don't forget to ⭐ it!
 
 ### Mitigate threats using Microsoft Defender for Endpoint
 
-KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimmerman that primarily collects and processes collected files. [@DFIRanjith](https://twitter.com/DFIRanjith) has built and published a guide on how to deploy KAPE through MDE live response and collect forensic artifacts.
+What better way to begin the resource list other than Microsoft Learn itself? MDE supports a lot of functionalities including artifacts collection, containment, live response, advanced hunting and others which help analysts and investigators unfold alerts and incidents.
 
- - [Microsoft Learn on SC-200](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
+ - [Microsoft Learn of SC-200](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
 
 ---
 
