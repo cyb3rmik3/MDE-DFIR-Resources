@@ -9,10 +9,19 @@ Hey, thank you stopping by! Well, being here means that you are either familiar 
 If you find this repo useful, don't forget to ⭐ it!
 
 #### Table of Contents
+- [Mitigate threats using Microsoft Defender for Endpoint](#mitigate-threats-using-microsoft-defender-for-endpoint)
 - [Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint](#remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint)
 - [@BertJanCyber Incident Response guide](#@bertjancyber-incident-response-guide)
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
+
+---
+
+### Mitigate threats using Microsoft Defender for Endpoint
+
+KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimmerman that primarily collects and processes collected files. [@DFIRanjith](https://twitter.com/DFIRanjith) has built and published a guide on how to deploy KAPE through MDE live response and collect forensic artifacts.
+
+ - [Microsoft Learn on SC-200](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
 
 ---
 
