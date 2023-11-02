@@ -4,6 +4,7 @@
 - [Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint](#remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint)
 - [@BertJanCyber Incident Response guide](#@bertjancyber-incident-response-guide)
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
+- [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 
 ### Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint
 
@@ -26,6 +27,8 @@ THOR-Cloud allows live compromise assessment scans for YARA, Sigma and IOCs on e
  - [THOR Cloud Lite Release Session](https://www.youtube.com/watch?v=ApeXFnFkKZg)
  - [THOR Cloud Lite - Microsoft Defender ATP Integration](https://www.youtube.com/watch?v=RubV7Cr1_FA)
 
+### HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting
 
+THOR
 
-- https://www.hunters.security/en/blog/human-friendly-guide-incident-response-microsoft-and-threat-hunting-azure-1?s=03
+ - [The Human-Friendly Guide: Incident Response & Threat Hunting in Microsoft Azure, Part 1](https://www.hunters.security/en/blog/human-friendly-guide-incident-response-microsoft-and-threat-hunting-azure-1?s=03)
