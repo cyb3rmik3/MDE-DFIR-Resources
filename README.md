@@ -23,7 +23,7 @@ Bert-Jan ([@BertJanCyber](https://twitter.com/BertJanCyber)), a fellow community
 
 THOR-Cloud allows live compromise assessment scans for YARA, Sigma and IOCs on endpoints through MDE. THOR-Cloud Lite comes with a free plan as well.
 
- - [THOR Cloud Lite Release Session]([https://www.youtube.com/watch?v=RubV7Cr1_FA](https://www.youtube.com/watch?v=ApeXFnFkKZg))
+ - [THOR Cloud Lite Release Session](https://www.youtube.com/watch?v=ApeXFnFkKZg)
  - [THOR Cloud Lite - Microsoft Defender ATP Integration](https://www.youtube.com/watch?v=RubV7Cr1_FA)
 
 
