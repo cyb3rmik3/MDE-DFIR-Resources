@@ -4,7 +4,7 @@
   <img src="https://images2.imgbox.com/94/d2/6Jd7QaSP_o.jpg">
 </p>
 
-Hey, thank you stopping by! Well, being here means that you are either familiar with the discipline of Digital Forensics & Incident Reponse (DFIR) or you are interested in beggining to explore DFIR tools and techniques. The common denominator, no matter what your sense is around DFIR, is that you are using Microsoft Defender for Endpoint and the wider Microsoft Azure and Microsoft 365 Defender environments. I hope you will enjoy the following resources which come from my notes and relevant research and testing I have done.
+Hey, thank you stopping by! Well, being here means that you are either familiar with the discipline of Digital Forensics & Incident Reponse (DFIR) or you are interested in beginning to explore DFIR tools and techniques. The common denominator, no matter what your sense is around DFIR, is that you are using Microsoft Defender for Endpoint and the wider Microsoft Azure and Microsoft 365 Defender environments. I hope you will enjoy the following resources which come from my notes and relevant research and testing I have done. Do you have any other resources that fit here? Drop me a line at X [here](https://twitter.com/cyb3rmik3).
 
 If you find this repo useful, don't forget to ⭐ it!
 
