@@ -41,7 +41,7 @@ THOR-Cloud allows live compromise assessment scans for YARA, Sigma and IOCs on e
 
 ### HUNTERS Human-Friendly Guide for Incident Response and Threat Hunting
 
-THOR
+HUNTERS, an advanced platform that levarages SIEM to help SOC teams, provides highly technical blogs around Microsoft Security. They start unfolding a 
 
  - [The Human-Friendly Guide: Incident Response & Threat Hunting in Microsoft Azure, Part 1](https://www.hunters.security/en/blog/human-friendly-guide-incident-response-microsoft-and-threat-hunting-azure-1?s=03)
 
