@@ -21,7 +21,7 @@ If you find this repo useful, don't forget to ⭐ it!
 
 What better way to begin the resource list other than Microsoft Learn itself? MDE supports a lot of functionalities including artifacts collection, containment, live response, advanced hunting and others which help analysts and investigators unfold alerts and incidents.
 
- - [Microsoft Learn of SC-200](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
+ - [Mitigate threats using Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
 
 ---
 
