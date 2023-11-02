@@ -1,5 +1,6 @@
 # Microsoft Defender for Endpoint curated list of resources for DFIR
 
+#### Table of Contents
 - [Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint](#remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint)
 
 ### Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint
