@@ -14,6 +14,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [@BertJanCyber Incident Response guide](#@bertjancyber-incident-response-guide)
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
+- [Microsoft Defender Advanced Threat Protection LiveResponse](#microsoft-defender-advanced-threat-protection-liveresponse)
 
 ---
 
@@ -35,7 +36,7 @@ KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimme
 
 ### @BertJanCyber Incident Response guide
 
-Bert-Jan ([@BertJanCyber](https://twitter.com/BertJanCyber)), a fellow community contributor has prepared a detailed and comprehensive guide on how to accomodate Microsoft technologies available including KQL queries and Live Response in order to practice the DFIR discipline.
+Bert-Jan ([@BertJanCyber](https://twitter.com/BertJanCyber)), a fellow community contributor has prepared a detailed and comprehensive guide on how to accommodate Microsoft technologies available including KQL queries and Live Response in order to practice the DFIR discipline.
 
  - [Incident Response Part 1: IR on Microsoft Security Incidents (KQL edition)](https://kqlquery.com/posts/kql-incident-response/)
  - [Incident Response Part 2: What about the other logs?](https://kqlquery.com/posts/kql-incident-response-everything-else/)
@@ -54,10 +55,18 @@ THOR-Cloud allows live compromise assessment scans for YARA, Sigma and IOCs on e
 
 ### HUNTERS Human-Friendly Guide for Incident Response and Threat Hunting
 
-HUNTERS, an advanced platform that levarages SIEM to help SOC teams, provides highly technical blogs around Microsoft Security. They started unfolding a series of blogs about IR and Threat hunting that really go deep into platform, differentiating sources, user's persmissions etc.
+HUNTERS, an advanced platform that leverages SIEM to help SOC teams, provides highly technical blogs around Microsoft Security. They started unfolding a series of blogs about IR and Threat hunting that really go deep into platform, differentiating sources, user's persmissions etc.
 
  - [The Human-Friendly Guide: Incident Response & Threat Hunting in Microsoft Azure, Part 1](https://www.hunters.security/en/blog/human-friendly-guide-incident-response-microsoft-and-threat-hunting-azure-1?s=03)
 
 ---
 
-Last update: 02/11/2023
+### Microsoft Defender For Endpoint Live Response
+
+Repositories hosting Powershell script samples for "Live Response" that can be leveraged in your Microsoft Defender For Endpoint Environment. 
+ - [Powershell Digital Forensics & Incident Response (DFIR)](https://github.com/Bert-JanP/Incident-Response-Powershell)
+ - [Microsoft Defender Advanced Threat Protection LiveResponse](https://github.com/YongRhee-MDE/LiveResponse)
+
+---
+
+Last update: 03/11/2023
