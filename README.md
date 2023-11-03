@@ -10,7 +10,7 @@ If you find this repo useful, don't forget to ⭐ it!
 
 #### Table of Contents
 - [Mitigate threats using Microsoft Defender for Endpoint](#mitigate-threats-using-microsoft-defender-for-endpoint)
-- [Remote collection of Windows Forensic Artifacts using KAPE and Microsoft Defender for Endpoint](#remote-collection-of-windows-forensic-artifacts-using-kape-and-mde)
+- [Remote collection of Windows Forensic Artifacts using KAPE and MDE](#remote-collection-of-windows-forensic-artifacts-using-kape-and-mde)
 - [@BertJanCyber Incident Response guide](#@bertjancyber-incident-response-guide)
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
