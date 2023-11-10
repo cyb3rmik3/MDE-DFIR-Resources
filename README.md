@@ -15,6 +15,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
 - [Microsoft Defender For Endpoint Live Response Script Sources](#microsoft-defender-for-endpoint-live-response-script-sources)
+- [Microsoft Defender For Endpoint Live Response Script Sources](#microsoft-defender-for-endpoint-live-response-script-sources)
 
 ---
 
@@ -28,9 +29,10 @@ What better way to begin the resource list other than Microsoft Learn itself? MD
 
 ### Remote collection of Windows Forensic Artifacts using KAPE and MDE
 
-KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimmerman that primarily collects and processes collected files. [@DFIRanjith](https://twitter.com/DFIRanjith) has built and published a guide on how to deploy KAPE through MDE live response and collect forensic artefacts.
+KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimmerman that primarily collects and processes collected files. [@DFIRanjith](https://twitter.com/DFIRanjith) and Krzysztof Miodoński have built and published a guide on how to deploy KAPE through MDE live response and collect forensic artefacts.
 
- - [Check it here](https://medium.com/@DFIRanjith/remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint-f7d3a857e2e0)
+ - [Remote collection of Windows Forensic Artifacts using KAPE and MDE](https://medium.com/@DFIRanjith/remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint-f7d3a857e2e0)
+ - [Collaboration between KAPE and MDE at the service of the SOC](https://www.linkedin.com/pulse/collaboration-between-kape-microsoft-defender-service-miodo%C5%84ski-ip2vf)
 
 ---
 
@@ -70,4 +72,4 @@ Repositories hosting Powershell script samples for "Live Response" that can be l
 
 ---
 
-Last update: 03/11/2023
+Last update: 10/11/2023
