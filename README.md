@@ -29,7 +29,7 @@ What better way to begin the resource list other than Microsoft Learn itself? MD
 
 ### Remote collection of Windows Forensic Artifacts using KAPE and MDE
 
-KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimmerman that primarily collects and processes collected files. [@DFIRanjith](https://twitter.com/DFIRanjith) and Krzysztof Miodoński have built and published a guide on how to deploy KAPE through MDE live response and collect forensic artefacts.
+KAPE (Kroll Artifact Parser and Extractor) is a powerful DFIR tool by Eric Zimmerman that primarily collects and processes collected files. [@DFIRanjith](https://twitter.com/DFIRanjith) and [Krzysztof Miodoński](https://www.linkedin.com/in/krzysztof-miodonski/) have built and published guides on how to deploy KAPE through MDE live response and collect forensic artefacts.
 
  - [Remote collection of Windows Forensic Artifacts using KAPE and MDE](https://medium.com/@DFIRanjith/remote-collection-of-windows-forensic-artifacts-using-kape-and-microsoft-defender-for-endpoint-f7d3a857e2e0)
  - [Collaboration between KAPE and MDE at the service of the SOC](https://www.linkedin.com/pulse/collaboration-between-kape-microsoft-defender-service-miodo%C5%84ski-ip2vf)
