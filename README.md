@@ -15,7 +15,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
 - [Microsoft Defender For Endpoint Live Response Script Sources](#microsoft-defender-for-endpoint-live-response-script-sources)
-- [MGinsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu:-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
+- [Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu:-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
 
 ---
 
