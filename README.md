@@ -15,7 +15,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
 - [Microsoft Defender For Endpoint Live Response Script Sources](#microsoft-defender-for-endpoint-live-response-script-sources)
-- [Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu:-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
+- [Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
 
 ---
 
@@ -72,7 +72,7 @@ Repositories hosting Powershell script samples for "Live Response" that can be l
 
 ---
 
-### Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response
+### Ginsu A tool for repackaging large collections to traverse Windows Defender Live Response
 
 This script uses 7zip (7za.exe) to compress a specified folder and then splits the resulting archive into sections of 3GB or less. It will work (and was designed for) files larger than 3GB. Windows Defender Live Response currently only supports pulling back files of 3GB or less via the console.
 
