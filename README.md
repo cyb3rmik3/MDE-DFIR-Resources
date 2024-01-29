@@ -84,7 +84,7 @@ This script uses 7zip (7za.exe) to compress a specified folder and then splits t
 
 ### Run Remote Triage Collections using Magent Forensics
 
-Using the Live Response console, you can push Magnet RESPONSE to a Windows endpoint, run a triage collection, and pull that collection back for analysis via the console.
+Using the Live Response console, you can push Magnet RESPONSE ([a free IR data collection tool](https://www.magnetforensics.com/blog/getting-started-with-magnet-response/) for members of the forensic community – download the latest version [here](https://www.magnetforensics.com/resources/magnet-response/)) to a Windows endpoint, run a triage collection, and pull that collection back for analysis via the console.
 
  - [How To Run Remote Triage Collections on Quarantined Endpoints](https://www.magnetforensics.com/blog/how-to-run-remote-triage-collections-on-quarantined-endpoints/)
 
