@@ -90,4 +90,14 @@ Using the Live Response console, you can push Magnet RESPONSE ([a free IR data c
 
 ---
 
-Last update: 29/01/2024
+### Run Recursive Collections using Cyber Triage
+
+The Defender Live Response feature can be used to deploy the ([Cyber Triage Collector](https://www.cybertriage.com/cyber-triage-dfir-collector/) to endpoints. The Collector is unique in that it parses and resolves artifacts on the endpoint so that all executable files and documents are collected for in-depth analysis.  Cyber Triage can then analyze and score them to identify malicious activity. 
+
+You can use both the free and paid version of Cyber Triage for this. Results can be saved to file, S3/Azure, or a Cyber Triage server. 
+
+- [How To Investigate Endpoints with Cyber Triage and Windows Defender] (https://www.cybertriage.com/blog/how-to-investigate-endpoints-with-cyber-triage-and-windows-defender/) blog post
+- [User Guide] (https://docs.cybertriage.com/en/latest/chapters/integrations/defender_collect.html)
+
+
+Last update: 02/05/2024
