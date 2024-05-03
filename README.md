@@ -17,6 +17,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [Microsoft Defender For Endpoint Live Response Script Sources](#microsoft-defender-for-endpoint-live-response-script-sources)
 - [Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
 - [Run Remote Triage Collections using Magent Forensics](#run-remote-triage-collections-using-magent-forensics)
+- [Run Recursive Collections using Cyber Triage](#run-recursive-collections-using-cyber-triage)
 
 ---
 
@@ -96,8 +97,5 @@ The Defender Live Response feature can be used to deploy the ([Cyber Triage Coll
 
 You can use both the free and paid version of Cyber Triage for this. Results can be saved to file, S3/Azure, or a Cyber Triage server. 
 
-- [How To Investigate Endpoints with Cyber Triage and Windows Defender] (https://www.cybertriage.com/blog/how-to-investigate-endpoints-with-cyber-triage-and-windows-defender/) blog post
-- [User Guide] (https://docs.cybertriage.com/en/latest/chapters/integrations/defender_collect.html)
-
-
-Last update: 02/05/2024
+- [How To Investigate Endpoints with Cyber Triage and Windows Defender](https://www.cybertriage.com/blog/how-to-investigate-endpoints-with-cyber-triage-and-windows-defender/) blog post
+- [User Guide](https://docs.cybertriage.com/en/latest/chapters/integrations/defender_collect.html)
