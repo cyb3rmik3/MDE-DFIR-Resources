@@ -18,6 +18,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
 - [Run Remote Triage Collections using Magent Forensics](#run-remote-triage-collections-using-magent-forensics)
 - [Run Recursive Collections using Cyber Triage](#run-recursive-collections-using-cyber-triage)
+- [Using Live Response in MDE for IR and forensics](#using-live-response-in-mde-for-ir-and-forensics)
 
 ---
 
@@ -99,3 +100,9 @@ You can use both the free and paid version of Cyber Triage for this. Results can
 
 - [How To Investigate Endpoints with Cyber Triage and Windows Defender](https://www.cybertriage.com/blog/how-to-investigate-endpoints-with-cyber-triage-and-windows-defender/) blog post
 - [User Guide](https://docs.cybertriage.com/en/latest/chapters/integrations/defender_collect.html)
+
+### Using Live Response in MDE for IR and forensics
+
+The following blog elaborates many aspects and capabilities from MDE's Live Response, including EDGE browser forensics that could be collected remotely.
+
+- [Using Live Response in MDE for IR and forensics](https://medium.com/@DefenderX/using-live-response-in-mde-for-ir-and-forensics-7c1b82579740)
