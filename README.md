@@ -101,6 +101,8 @@ You can use both the free and paid version of Cyber Triage for this. Results can
 - [How To Investigate Endpoints with Cyber Triage and Windows Defender](https://www.cybertriage.com/blog/how-to-investigate-endpoints-with-cyber-triage-and-windows-defender/) blog post
 - [User Guide](https://docs.cybertriage.com/en/latest/chapters/integrations/defender_collect.html)
 
+---
+
 ### Using Live Response in MDE for IR and forensics
 
 The following blog elaborates many aspects and capabilities from MDE's Live Response, including EDGE browser forensics that could be collected remotely.
