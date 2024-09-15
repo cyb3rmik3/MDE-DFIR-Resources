@@ -20,6 +20,9 @@ If you find this repo useful, don't forget to ⭐ it!
 - [Run Recursive Collections using Cyber Triage](#run-recursive-collections-using-cyber-triage)
 - [Using Live Response in MDE for IR and forensics](#using-live-response-in-mde-for-ir-and-forensics)
 
+#### Bonus content
+- [How to troubleshoot Live Response in Defender for Endpoint](#how-to-troubleshoot-live-response-in-defender-for-endpoint)
+
 ---
 
 ### Mitigate threats using Microsoft Defender for Endpoint
@@ -108,3 +111,11 @@ You can use both the free and paid version of Cyber Triage for this. Results can
 The following blog elaborates many aspects and capabilities from MDE's Live Response, including EDGE browser forensics that could be collected remotely.
 
 - [Using Live Response in MDE for IR and forensics](https://medium.com/@DefenderX/using-live-response-in-mde-for-ir-and-forensics-7c1b82579740)
+
+---
+
+### How to troubleshoot Live Response in Defender for Endpoint
+
+In this blog, Jeffrey explains the troubleshooting capabilities more in-depth with a strong focus on situations where Live Response is not working as expected.
+
+- [How to troubleshoot Live Response in Defender for Endpoint](https://jeffreyappel.nl/how-to-troubleshoot-live-response-in-defender-for-endpoint/)
