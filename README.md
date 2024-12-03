@@ -16,7 +16,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [HUNTERS Human-Friendly Guide for Incident Response & Threat Hunting](#hunters-human-friendly-guide-for-incident-response-and-threat-hunting)
 - [Microsoft Defender For Endpoint Live Response Script Sources](#microsoft-defender-for-endpoint-live-response-script-sources)
 - [Ginsu: A tool for repackaging large collections to traverse Windows Defender Live Response](#ginsu-a-tool-for-repackaging-large-collections-to-traverse-windows-defender-live-response)
-- [Run Remote Triage Collections using Magent Forensics](#run-remote-triage-collections-using-magent-forensics)
+- [Run Remote Triage Collections using Magnet Forensics](#run-remote-triage-collections-using-magnet-forensics)
 - [Run Recursive Collections using Cyber Triage](#run-recursive-collections-using-cyber-triage)
 - [Using Live Response in MDE for IR and forensics](#using-live-response-in-mde-for-ir-and-forensics)
 
@@ -87,7 +87,7 @@ This script uses 7zip (7za.exe) to compress a specified folder and then splits t
 
 ---
 
-### Run Remote Triage Collections using Magent Forensics
+### Run Remote Triage Collections using Magnet Forensics
 
 Using the Live Response console, you can push Magnet RESPONSE ([a free IR data collection tool](https://www.magnetforensics.com/blog/getting-started-with-magnet-response/) for members of the forensic community – download the latest version [here](https://www.magnetforensics.com/resources/magnet-response/)) to a Windows endpoint, run a triage collection, and pull that collection back for analysis via the console.
 
