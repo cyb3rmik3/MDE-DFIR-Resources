@@ -19,6 +19,8 @@ If you find this repo useful, don't forget to ⭐ it!
 - [Run Remote Triage Collections using Magnet Forensics](#run-remote-triage-collections-using-magnet-forensics)
 - [Run Recursive Collections using Cyber Triage](#run-recursive-collections-using-cyber-triage)
 - [Using Live Response in MDE for IR and forensics](#using-live-response-in-mde-for-ir-and-forensics)
+- [Exposing Incognito Mode with Defender for Endpoint](#exposing-incognito-mode-with-defender-for-endpoint)
+- [macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath](#macos-forensics-remote-collection-and-analysis-using-microsoft-defender-for-endpoint-and-aftermath)
 
 #### Bonus content
 - [How to troubleshoot Live Response in Defender for Endpoint](#how-to-troubleshoot-live-response-in-defender-for-endpoint)
@@ -119,3 +121,19 @@ The following blog elaborates many aspects and capabilities from MDE's Live Resp
 In this blog, Jeffrey explains the troubleshooting capabilities more in-depth with a strong focus on situations where Live Response is not working as expected.
 
 - [How to troubleshoot Live Response in Defender for Endpoint](https://jeffreyappel.nl/how-to-troubleshoot-live-response-in-defender-for-endpoint/)
+
+---
+
+### Exposing Incognito Mode with Defender for Endpoint
+
+This blog elaborates a forensics investigation about a malware download, using Chrome's incognito mode.
+
+- [Exposing Incognito Mode with Defender for Endpoint](https://www.johncysa.com/forensics-exposing-incognito-mode-with-defender-for-endpoint)
+
+---
+
+### macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath
+
+This blog demonstrates how you can remotely collect and Analyze macOS forensic artifacts/triage image using Microsoft Defender for Endpoint and Aftermath.
+
+- [macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath](https://medium.com/@DFIRanjith/macos-forensics-remote-collection-and-analysis-using-microsoft-defender-for-endpoint-and-7f6b80c3ee62)
