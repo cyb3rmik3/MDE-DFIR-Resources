@@ -21,6 +21,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [Using Live Response in MDE for IR and forensics](#using-live-response-in-mde-for-ir-and-forensics)
 - [Exposing Incognito Mode with Defender for Endpoint](#exposing-incognito-mode-with-defender-for-endpoint)
 - [macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath](#macos-forensics-remote-collection-and-analysis-using-microsoft-defender-for-endpoint-and-aftermath)
+- [PowerShell Collector](#powershell-collector)
 
 #### Bonus content
 - [How to troubleshoot Live Response in Defender for Endpoint](#how-to-troubleshoot-live-response-in-defender-for-endpoint)
@@ -137,3 +138,11 @@ This blog elaborates a forensics investigation about a malware download, using C
 This blog demonstrates how you can remotely collect and Analyze macOS forensic artifacts/triage image using Microsoft Defender for Endpoint and Aftermath.
 
 - [macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath](https://medium.com/@DFIRanjith/macos-forensics-remote-collection-and-analysis-using-microsoft-defender-for-endpoint-and-7f6b80c3ee62)
+
+---
+
+### PowerShell Collector
+
+A simple, straightforward PowerShell script developed by [Marcus Edmondson](https://github.com/medmondson44) which allows collecting Event logs, LNK/Jump list files, Prefetch Files and Registry hives all saved in Collector_.zip file in C:.
+
+- [PowerShell Collector](https://github.com/medmondson44/powershell_collector)
