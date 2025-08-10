@@ -22,6 +22,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [Exposing Incognito Mode with Defender for Endpoint](#exposing-incognito-mode-with-defender-for-endpoint)
 - [macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath](#macos-forensics-remote-collection-and-analysis-using-microsoft-defender-for-endpoint-and-aftermath)
 - [PowerShell Collector](#powershell-collector)
+- [Selective Isolation in Defender for Endpoint by Combining tools like Velociraptor for DFIR](#selective-isolation-in-defender-for-endpoint-by-combining-tools-like-velociraptor-for-dfir)
 
 #### Bonus content
 - [How to troubleshoot Live Response in Defender for Endpoint](#how-to-troubleshoot-live-response-in-defender-for-endpoint)
@@ -146,3 +147,11 @@ This blog demonstrates how you can remotely collect and Analyze macOS forensic a
 A simple, straightforward PowerShell script developed by [Marcus Edmondson](https://github.com/medmondson44) which allows collecting Event logs, LNK/Jump list files, Prefetch Files and Registry hives all saved in Collector_.zip file in C:.
 
 - [PowerShell Collector](https://github.com/medmondson44/powershell_collector)
+
+---
+
+### Selective Isolation in Defender for Endpoint by Combining tools like Velociraptor for DFIR
+
+In this blog, an elaboration of how Selective Isolation works, what Microsoft Defender for Endpoint (MDE) can offer natively, how it can be extended with Velociraptor, and what a modern DFIR process looks like when combining containment with full investigative access.
+
+- [MDE Selective Isolation Velociraptor](https://www.modernsecurity.nl/mde-selective-isolation-velociraptor/)
