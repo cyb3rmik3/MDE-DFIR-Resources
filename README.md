@@ -10,6 +10,7 @@ If you find this repo useful, don't forget to ⭐ it!
 
 #### Table of Contents
 - [Mitigate threats using Microsoft Defender for Endpoint](#mitigate-threats-using-microsoft-defender-for-endpoint)
+- [Introducing library management in Microsoft Defender](#introducing-library-management-in-microsoft-defender)
 - [Remote collection of Windows Forensic Artifacts using KAPE and MDE](#remote-collection-of-windows-forensic-artifacts-using-kape-and-mde)
 - [@BertJanCyber Incident Response guide](#@bertjancyber-incident-response-guide)
 - [THOR-Cloud forensic scanning through MDE](#thor-cloud-forensic-scanning-through-mde)
@@ -23,6 +24,7 @@ If you find this repo useful, don't forget to ⭐ it!
 - [macOS Forensics -Remote collection and Analysis using Microsoft Defender for Endpoint and Aftermath](#macos-forensics-remote-collection-and-analysis-using-microsoft-defender-for-endpoint-and-aftermath)
 - [PowerShell Collector](#powershell-collector)
 - [Selective Isolation in Defender for Endpoint by Combining tools like Velociraptor for DFIR](#selective-isolation-in-defender-for-endpoint-by-combining-tools-like-velociraptor-for-dfir)
+- [KustoHawk](#kustohawk)
 
 #### Bonus content
 - [How to troubleshoot Live Response in Defender for Endpoint](#how-to-troubleshoot-live-response-in-defender-for-endpoint)
@@ -34,6 +36,14 @@ If you find this repo useful, don't forget to ⭐ it!
 What better way to begin the resource list other than Microsoft Learn itself? MDE supports a lot of functionalities including artifact collection, containment, live response, advanced hunting and others which help analysts and investigators unfold alerts and incidents.
 
  - [Mitigate threats using Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
+
+---
+
+### Introducing library management in Microsoft Defender
+
+Recognizing the need for better readiness and control, Defender introduced a more proactive and efficient way to manage these assets: library management. The new library management experience in Defender brings powerful enhancements to how security teams manage scripts and files used in live response.
+
+ - [Introducing library management in Microsoft Defender](https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/introducing-library-management-in-microsoft-defender/4494434)
 
 ---
 
@@ -155,3 +165,11 @@ A simple, straightforward PowerShell script developed by [Marcus Edmondson](http
 In this blog, an elaboration of how Selective Isolation works, what Microsoft Defender for Endpoint (MDE) can offer natively, how it can be extended with Velociraptor, and what a modern DFIR process looks like when combining containment with full investigative access.
 
 - [MDE Selective Isolation Velociraptor](https://www.modernsecurity.nl/mde-selective-isolation-velociraptor/)
+
+---
+
+### KustoHawk
+
+KustoHawk is a incident triage and response tool for Microsoft Defender XDR and Sentinel environments. The script collects common indicators of compromise and returns a complete picture of the activities performed by an device of account. The tool leverages Graph API to run the hunting queries across your unified XDR environment.
+
+ - [KustoHawk](https://github.com/Bert-JanP/KustoHawk)
